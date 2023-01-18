@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-Huawei Maranatha
+Kepanjangan dari HCIA-AI adalah Huawei Certified Associate-Artificial Intelligence. 
 
 
 ----
