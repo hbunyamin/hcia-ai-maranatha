@@ -4,7 +4,11 @@ layout: home
 nav_order: 1
 ---
 
-Kepanjangan dari HCIA-AI adalah Huawei Certified Associate-Artificial Intelligence. 
+# HCIA-AI Maranatha
+HCIA-AI Maranatha adalah Huawei Certification ICT Associate-Artificial Intelligence yang diadakan oleh Universitas Kristen Maranatha. Pelatihan akan diadakan 2 kali dalam satu tahun.
+
+Pelatihan  
+
 
 
 ----
